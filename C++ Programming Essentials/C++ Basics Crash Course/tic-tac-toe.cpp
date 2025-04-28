@@ -2,6 +2,14 @@
 // function
 #include <iostream>
 
+double avg(int data[], int size) {
+    double sum = 0;
+    for (int i = 0; i < size; i++) {
+        sum += data[i];
+    }
+    return sum / size;
+}
+
 int main() {
 		//only need second size, which is the # of columns
     char board[][3] = {{'-', '-', '-'}, {'-', '-', '-'}, {'-', '-', '-'}};
@@ -22,6 +30,10 @@ int main() {
         }
         std::cout << std::endl;
     }
+
+    int ages[] = {20, 30, 40, 50};
+    double ageAverage = avg(ages, 4);
+    std::cout << ageAverage << std::endl;
 
     return 0;
 }
