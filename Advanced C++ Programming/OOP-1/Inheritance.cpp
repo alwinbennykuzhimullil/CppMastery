@@ -48,3 +48,10 @@ int main() {
 
     return 0;
 }
+
+
+// Inheritance can be useful when you want to create a new class that shares some or
+// all of the attributes and behaviors of an existing class, while also adding additional
+// attributes or behaviors.
+
+// Inheritance is appropriate when something “is” something else.
