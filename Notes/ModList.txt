@@ -1,13 +1,8 @@
 Programming and Algorithms [1] -> C++ Programming [2]
 
-
 Intro to SWE [1] ->  Developing Maintainable Software [2] -> SWE-GP [2]
 
-
 Intro to AI [1] -> AI Methods [2]
-
-
-
 
 Programming Paradigms [1]
 Database and interface [1]
@@ -18,15 +13,6 @@ Intro to Formal Reasoning [2]
 Languages and computation [2]
 
 Algorithms Data Structure and Efficiency [2]
-
-
-
-
-
-
-
-
-
 
 Math:
 MCS1: Discrete maths [1]
